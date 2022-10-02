@@ -8,4 +8,4 @@ Two approaches were used. One is based on statistical distribution (eliptic enve
 
 # Deployment
 The model is deployed in a Microsoft Azure Pipeline with an REST access point.
-The health tech app, which use the model API can be used on this [website](https://webflow.com/design/health-ai).
+The health tech app, which use the model API can be used on this [website](https://health-ai.webflow.io/).
